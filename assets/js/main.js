@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
 
 	'use strict';
-
+  
 
 	/************** Toggle *********************/
     // Cache selectors
@@ -58,14 +58,14 @@ jQuery(document).ready(function($) {
 
 
     $(window).scroll(function(){
-         $('.main-header').toggleClass('scrolled', $(this).scrollTop() > 1);
+         //$('.main-header').toggleClass('scrolled', $(this).scrollTop() > 1);
      });
 
 
 
     $('a[href="#top"]').click(function(){
-        $('html, body').animate({scrollTop: 0}, 'slow');
-        return false;
+        //$('html, body').animate({scrollTop: 0}, 'slow');
+        //return false;
     });
 
 
