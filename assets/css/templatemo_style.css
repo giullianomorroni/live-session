@@ -291,7 +291,7 @@ hr {
   padding-left: 130px;
   line-height: 100px;
   text-transform: uppercase;
-  color: #ec523f;
+  color: white;
   font-size: 32px;
   font-weight: 700;
 }
@@ -309,11 +309,11 @@ hr {
   color: #444444;
   line-height: 100px;
   padding-top: 37px;
-  color: #ec523f;
+  color: white;
 }
 .main-menu ul li.active a {
   border-top: 3px solid #ec523f;
-  color: #ec523f;
+  color: white;
 }
 
 .toggle-menu {
