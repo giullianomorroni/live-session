@@ -19,7 +19,7 @@ body {
 }
 
 .blue {
-	color: #06C;
+	color: #2777B8;
 }
 
 .green {
@@ -165,7 +165,7 @@ body {
 }
 
 a {
-  color: #ec523f;
+  color: #FF8228;
   text-decoration: none;
   -webkit-transition: all 200ms ease-in-out;
   -moz-transition: all 200ms ease-in-out;
@@ -191,7 +191,7 @@ button,
 input,
 select,
 textarea {
-  border: 1px solid #d5d5d5;
+  border: 1px solid #D8D0C7;
   outline: 0;
   padding: 10px 12px;
   color: #666666;
@@ -228,7 +228,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #e2e2e2;
+  border-top: 1px solid #D8D0C7;
   margin: 40px 0;
 }
 
@@ -312,7 +312,7 @@ hr {
   color: white;
 }
 .main-menu ul li.active a {
-  border-top: 3px solid #ec523f;
+  border-top: 3px solid #FF8228;
   color: white;
 }
 
@@ -325,7 +325,7 @@ hr {
   text-align: center;
   line-height: 36px;
   font-size: 14px;
-  background: #EC523F;
+  background: #FF8228;
   display: inline-block;
   color: white;
   cursor:pointer;
@@ -345,7 +345,7 @@ hr {
   font-size: 14px;
 }
 .menu-responsive ul li.active a {
-  color: #ec523f;
+  color: #FF8228;
 }*/
 
 .flexslider {
@@ -388,7 +388,7 @@ hr {
 }
 .flexslider .slider-caption a.slider-btn {
   color: white;
-  background-color: #ec523f;
+  background-color: #FF8228;
   padding: 12px 20px;
   border-radius: 4px;
   text-transform: uppercase;
@@ -484,8 +484,8 @@ hr {
 }
 
 .content-section {
-  margin-top: 80px;
-  padding-top: 60px;
+  margin-top: 120px;
+  padding-top: 0px;
 }
 
 .heading-section {
@@ -583,7 +583,7 @@ hr {
 }
 
 #service-3 {
-  background-color: #3498db;
+  background-color: #2777B8;
 }
 
 #service-4 {
@@ -601,7 +601,7 @@ hr {
   width: 100%;
 }
 .portfolio-item .portfolio-thumb .portfolio-overlay {
-  background-color: #ec523f;
+  background-color: #FF8228;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -667,7 +667,7 @@ hr {
   text-align: center;
   top: 0;
   left: 0;
-  background-color: #ec523f;
+  background-color: #FF8228;
   color: white;
   opacity: 0;
   visibility: hidden;
@@ -702,7 +702,7 @@ hr {
   height: 36px;
   background-color: white;
   line-height: 40px;
-  color: #ec523f;
+  color: #FF8228;
   border-radius: 18px;
   -webkit-border-radius: 18px;
   -moz-border-radius: 18px;
@@ -740,7 +740,7 @@ hr {
   padding-left: 15px;
   text-transform: uppercase;
   font-weight: 700;
-  background-color: #ec523f;
+  background-color: #FF8228;
   box-shadow: none;
 }
 
@@ -770,13 +770,13 @@ hr {
 .contact-form .mainBtn {
   margin-top: 15px;
   color: white;
-  background-color: #ec523f;
+  background-color: #FF8228;
   text-transform: uppercase;
   border: 0;
 }
 
 #go-top {
-  background-color: #ec523f;
+  background-color: #FF8228;
   color: white;
   padding: 15px 40px;
   text-transform: uppercase;
