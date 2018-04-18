@@ -389,10 +389,11 @@ hr {
 .flexslider .slider-caption a.slider-btn {
   color: white;
   background-color: #FF8228;
-  padding: 12px 20px;
+  padding: 15px 30px;
   border-radius: 4px;
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 25px;
 }
 @media screen and (min-width: 989px) {
   .flexslider .slider-caption {
@@ -497,6 +498,7 @@ hr {
   text-transform: uppercase;
   border-bottom: 1px solid #444444;
   display: inline-block;
+  color: #00205B;
 }
 .heading-section p {
   color: #444444;
@@ -504,6 +506,7 @@ hr {
   font-weight: 300;
   text-transform: uppercase;
   margin-top: 10px;
+  color: #00205B;
 }
 
 .small-text {
