@@ -258,7 +258,7 @@ hr {
   width: 100%;
   margin: 0 auto;
   z-index: 1000;
-  top: 94px;
+  top: 14px;
   -webkit-transition: all 150ms ease-in-out;
   -moz-transition: all 150ms ease-in-out;
   transition: all 150ms ease-in-out;
