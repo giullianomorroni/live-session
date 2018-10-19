@@ -400,6 +400,21 @@ hr {
     top: 230px;
   }
 }
+
+@media screen and (min-width: 100px) {
+  .flexslider .slider-caption {
+    top: 90px;
+  }
+
+  .flexslider .slider-caption h2 {
+    font-size: 16px;
+  }
+  .flexslider .slider-caption a.slider-btn {
+    padding: 5px 5px;
+    font-size: 15px;
+  }
+}
+
 @media screen and (min-width: 1200px) {
   .flexslider .slider-caption {
     top: 380px;
